@@ -1,0 +1,7 @@
+{
+  "name": "VisionHunt AI - Busca de Fotos Local",
+  "description": "Uma ferramenta sofisticada de descoberta de fotos locais que usa a IA Gemini para escanear e comparar fotos de referência com suas pastas de imagens locais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
